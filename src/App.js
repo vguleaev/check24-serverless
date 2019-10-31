@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="./pumpkin.png" className="App-logo" alt="logo" />
-        <p>Hello from React 👻</p>
+        <p>Hello from Netlify 👻</p>
       </header>
     </div>
   );
