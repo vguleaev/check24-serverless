@@ -11,7 +11,7 @@ function App() {
       setText(response.data.message);
     }
     sorryHooks();
-  });
+  }, []);
 
   return (
     <div className="App">
